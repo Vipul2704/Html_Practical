@@ -1,7 +1,7 @@
 <?php
-function even_odd($n)
+function even_odd($n)  //passbyparameter baracket($n)type karvu
 {
-    //$n=7;
+    //$n=7;   simple function
     if($n%2==0)
     {
         echo "given number is a even<br>";
